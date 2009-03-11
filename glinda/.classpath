@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="src-stubbedtheories"/>
+	<classpathentry kind="src" path="cpsuite-1.1.0-src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/timeandmoney-v0_5_1.jar" sourcepath="lib/timeandmoney-src-v0_5_1.zip"/>
+	<classpathentry kind="lib" path="lib/cglib-nodep-2.1_3.jar" sourcepath="lib/cglib-src-2.1_3.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-library-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/jmock-2.3.0-RC2.jar"/>
+	<classpathentry kind="lib" path="lib/objenesis-1.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/junit"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

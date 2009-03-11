@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/usr/local/google/saff/workspaces/glinda-workspace/glinda/lib/glinda-out.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/glinda/glindajar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=glinda/src&lt;net.saff.glinda.core{Glinda.java[Glinda" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=glinda/src"/>
+        <javaElement handleIdentifier="=glinda/src-stubbedtheories"/>
+        <javaElement handleIdentifier="=glinda/cpsuite-1.1.0-src"/>
+    </selectedElements>
+</jardesc>

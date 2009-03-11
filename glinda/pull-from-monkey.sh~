@@ -1,0 +1,3 @@
+. ~/.bashrc
+hg pull ${MONKEY_REPOS}/hgrepos/glinda
+hg update

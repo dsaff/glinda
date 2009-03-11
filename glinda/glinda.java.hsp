@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<local-project language="java" flavor="j2se">
+   <property name="hide-externals" value="false" />
+   <property name="detail-mode" value="true" />
+   <classpath>
+      <classpathentry kind="lib" path="/Users/saff/Documents/workspaces/glinda/glinda/bin" />
+   </classpath>
+   <transformations>
+      <transformation in="*Ljava.*" out="java.{2}" />
+      <transformation in="*Lnet.*" out="net.{1}" />
+   </transformations>
+</local-project>
+
